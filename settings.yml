@@ -1,0 +1,7 @@
+threadsCount: 10
+rabbitMqHost: "localhost"
+rabbitMqPort: 5672
+rabbitMqUsername: simplehosting_rabbitmq
+rabbitMqPassword: s190_9_0923imp76l11ehosting_rabb1i8tmq
+redisHost: "localhost"
+redisPort: 6379
